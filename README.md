@@ -1,4 +1,4 @@
-# Bachelor End Project - Applied Mathematics Techinical University of Eindhoven
+# Bachelor End Project - Applied Mathematics Technical University of Eindhoven
 
-Malcolm Vassallo - malcolmvas@student.tue.nl
+Malcolm Vassallo - m.j.vassallo@student.tue.nl
 Student number 1680056
